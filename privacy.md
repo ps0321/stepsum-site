@@ -44,6 +44,8 @@ The app is for general audiences and is not directed at children under 13. We do
 - **On your device:** Settings → Reset All Data removes your quiz history. Uninstalling the app removes everything the app stored.
 - **Analytics and crash data:** email team.sunbee@gmail.com from any address and include your request. We will ask Firebase to delete the data tied to your app instance. The app-instance ID resets when you uninstall the app or clear its data, which also stops new data from being linked to the old ID.
 
+- **Request page:** [stepsum.app/delete-data](https://stepsum.app/delete-data/) lists these steps and what is deleted.
+
 ## Changes
 
 If this policy changes, the new version is posted at this address with a new effective date. Material changes are also noted in the app's store listing.
